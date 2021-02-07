@@ -1,3 +1,8 @@
+//Time Complexity
+//Worst Case - O(n^2)
+//Average Case - O(n^2)
+//Best Case (When array is sorted) - O(n)
+
 #include <iostream>
 using namespace std;
 
