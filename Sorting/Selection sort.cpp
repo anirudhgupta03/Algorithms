@@ -1,3 +1,6 @@
+//Best Case - Array is already sorted O(N*N)
+//Average Case - O(N*N)
+//Worst Case - Reverse Sorted O(N*N)
 #include <bits/stdc++.h>
 using namespace std;
 
